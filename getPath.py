@@ -5,3 +5,5 @@ def path():
     return re
 
 print 'modified'
+
+print 'modified2'
