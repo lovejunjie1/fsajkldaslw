@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5844e75e-73c2-4dd7-94ee-2d6a70ab8048" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="functions_falloff.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions_falloff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7633">
+              <caret line="449" selection-start-line="449" selection-end-line="450" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12784">
+              <caret line="754" column="28" selection-start-line="754" selection-start-column="28" selection-end-line="754" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animCubeNode.py" pinned="false" current-in-tab="true">
+        <entry file="file://D:/devkitBase/devkit/plug-ins/scripted/animCubeNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="145" column="31" lean-forward="true" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3027</find>
+      <find>refreshAreaFn</find>
+      <find>getWeightDict</find>
+      <find>self.areaArray</find>
+      <find>makeExecuteDict</find>
+      <find>str(jntmap.keys[i])</find>
+      <find>edgeInfoDictTemp</find>
+      <find>splitLinesByMiddle</find>
+      <find>edgelist</find>
+      <find>sort</find>
+      <find>keyVertToStructEdgeDict</find>
+      <find>vertToStructEdgeDict</find>
+      <find>mainRule</find>
+      <find>print</find>
+      <find>polyName</find>
+      <find>getVertInformation</find>
+      <find>getFalloffDict</find>
+      <find>getStructVertToCrossEdgeDict</find>
+      <find>falloffRule</find>
+      <find>edgeListToVertList</find>
+      <find>cleanInfos</find>
+      <find>edgeToVertex_List</find>
+      <find>isEdgesListMirror</find>
+      <find>getMiddleEdgeByMiddleVerts</find>
+      <find>runButton</find>
+      <find>getCrossByStructEdge</find>
+      <find>reducePolygonTool_back_Class</find>
+      <find>delLevel</find>
+      <find>thresholdLab</find>
+      <find>getBaseStructEdgeInformation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MayaParent</replace>
+      <replace>self.checkCombie</replace>
+      <replace>self.typeTab</replace>
+      <replace>meshName</replace>
+      <replace>self.polyName</replace>
+      <replace>self.getVertInformation</replace>
+      <replace>self.getBaseStructEdgeInformation</replace>
+      <replace>self.getFalloffDict</replace>
+      <replace>self.getStructVertToCrossEdgeDict</replace>
+      <replace>self.mainRule</replace>
+      <replace>self.falloffRule</replace>
+      <replace>self.edgeListToVertList</replace>
+      <replace>self.cleanInfos</replace>
+      <replace>self.edgeToVertex_List</replace>
+      <replace>self.isEdgesListMirror</replace>
+      <replace>self.splitLinesByMiddle</replace>
+      <replace>self.getMiddleEdgeByMiddleVerts</replace>
+      <replace>stepSlider2</replace>
+      <replace>displayLevel2</replace>
+      <replace>self.getCrossByStructEdge</replace>
+      <replace>self.</replace>
+      <replace>runButton2</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/mayaToolTemplate/mainWindow.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/getPath.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/main.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/template1.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/template2.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/ui.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/temp.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/template3.py" />
+        <option value="$PROJECT_DIR$/splitBlendshapes/ui2.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/functions.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/functions2.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/functions_falloff.py" />
+        <option value="$PROJECT_DIR$/reducePolygonTool/UI.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="19" />
+    <option name="y" value="712" />
+    <option name="width" value="1200" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="reducePolygonTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/codes/dev/splitBlendshapes/ui.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\dev\reducePolygonTool" />
+      <recent name="D:\codes\dev\splitBlendshapes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codes\dev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5844e75e-73c2-4dd7-94ee-2d6a70ab8048" name="Default" comment="" />
+      <created>1532929439147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532929439147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1216" height="1896" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24666667" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Maya Log" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/devkitBase/devkit/plug-ins/scripted/pyPointOnMeshInfo.py</url>
+          <line>11</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/ui.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template2.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template1.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/ui.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template1.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="16" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/ui.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template1.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template1.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" selection-start-line="63" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" selection-start-line="63" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" column="60" selection-start-line="377" selection-start-column="60" selection-end-line="377" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5423">
+          <caret line="321" column="21" lean-forward="true" selection-start-line="321" selection-start-column="21" selection-end-line="321" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8313">
+          <caret line="490" lean-forward="true" selection-start-line="490" selection-end-line="490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/mayaToolTemplate/mainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/getPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/redBlackStyleSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template1.py" />
+    <entry file="file://D:/devkitBase/devkit/plug-ins/scripted/pyPointOnMeshInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1634">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#437#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/devkitBase/devkit/plug-ins/scripted/basicShape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1952">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template2.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/ui.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/temp.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/template3.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/ui2.py" />
+    <entry file="file://$PROJECT_DIR$/splitBlendshapes/backClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions2.py" />
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/functions_falloff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7633">
+          <caret line="449" selection-start-line="449" selection-end-line="450" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducePolygonTool/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12784">
+          <caret line="754" column="28" selection-start-line="754" selection-start-column="28" selection-end-line="754" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/devkitBase/devkit/plug-ins/scripted/animCubeNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="145" column="31" lean-forward="true" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
